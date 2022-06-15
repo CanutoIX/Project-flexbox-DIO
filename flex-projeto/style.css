@@ -193,6 +193,7 @@ header .menu {
     font-size: 24px;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .item-plano h3::after{
